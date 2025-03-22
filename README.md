@@ -23,6 +23,9 @@ Includes links to Home, About, Blogs, and Contact.
 ### 🎯 Call to Action (CTA)
 "Try Now" button for user engagement.
 
+## Image
+![Screenshot](https://github.com/ItsMeAreebaAmjad/LandingPage-Nextjs/blob/main/image.png)
+
 ### 📌 Information Sections
 Highlights benefits such as:
 - **Work-Life Balance**: Flexible schedules for better balance.
